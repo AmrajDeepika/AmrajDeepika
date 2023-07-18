@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmrajDeepika
-- 👀 I’m interested in FullstackDeveloper
+- 👀 I’m interested in html,css,python
 - 🌱 I’m currently learning Masters in computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ former employee of cognizant technilogy solution 
 - 📫 How to reach me ...
 
 <!---
